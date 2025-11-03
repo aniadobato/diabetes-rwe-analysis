@@ -43,8 +43,24 @@ Copiar código
 
 ## 🚀 Dashboard (Power BI)
 
-👉 **Enlace al dashboard:**  
-(agregá aquí el link una vez publicado en Power BI Service)
+Vista previa del dashboard:
+
+---
+
+### 📌 Características de la población analizada
+![Características](screenshots/Características.png)
+
+### 💊 Medicamentos y vías de administración
+![Medicamentos](screenshots/Medicamentos.png)
+
+### 📈 Registros y volumen de datos analizados
+![Registros](screenshots/Registros.png)
+
+---
+
+> Para ver el archivo completo del dashboard:
+📁 `/dashboard/Adobato Ana Paula, proyecto final.pbix`
+
 
 ---
 
